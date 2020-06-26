@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\79164\\Downloads\\KamaFilms\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_autorenew_black.png.flat",
+        "source": "C:\\Users\\79164\\Downloads\\KamaFilms\\app\\src\\main\\res\\drawable-xhdpi\\ic_autorenew_black.png"
+    },
+    {
+        "merged": "C:\\Users\\79164\\Downloads\\KamaFilms\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_default_image.png.flat",
+        "source": "C:\\Users\\79164\\Downloads\\KamaFilms\\app\\src\\main\\res\\drawable-xhdpi\\default_image.png"
+    },
+    {
+        "merged": "C:\\Users\\79164\\Downloads\\KamaFilms\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_20200611132315.png.flat",
+        "source": "C:\\Users\\79164\\Downloads\\KamaFilms\\app\\src\\main\\res\\drawable-xhdpi\\logo_20200611132315.png"
+    },
+    {
+        "merged": "C:\\Users\\79164\\Downloads\\KamaFilms\\app\\build\\intermediates\\res\\merged\\debug\\layout_list.xml.flat",
+        "source": "C:\\Users\\79164\\Downloads\\KamaFilms\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "C:\\Users\\79164\\Downloads\\KamaFilms\\app\\build\\intermediates\\res\\merged\\debug\\layout_player.xml.flat",
+        "source": "C:\\Users\\79164\\Downloads\\KamaFilms\\app\\src\\main\\res\\layout\\player.xml"
+    },
+    {
+        "merged": "C:\\Users\\79164\\Downloads\\KamaFilms\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\79164\\Downloads\\KamaFilms\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\79164\\Downloads\\KamaFilms\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\79164\\Downloads\\KamaFilms\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\79164\\Downloads\\KamaFilms\\app\\build\\intermediates\\res\\merged\\debug\\layout_all.xml.flat",
+        "source": "C:\\Users\\79164\\Downloads\\KamaFilms\\app\\src\\main\\res\\layout\\all.xml"
+    },
+    {
+        "merged": "C:\\Users\\79164\\Downloads\\KamaFilms\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cloud_white.png.flat",
+        "source": "C:\\Users\\79164\\Downloads\\KamaFilms\\app\\src\\main\\res\\drawable-xhdpi\\ic_cloud_white.png"
+    }
+]
